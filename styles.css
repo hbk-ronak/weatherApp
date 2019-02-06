@@ -1,0 +1,16 @@
+body {
+    background-color: black;
+}
+.container-fluid {
+    padding-top: 200px;
+    margin: auto;
+}
+.well {
+    margin: auto;
+    color: whitesmoke;
+    text-align: center;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-family: 'Pacifico', cursive;
+    border: solid 1px snow;
+}
